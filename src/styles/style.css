@@ -1,6 +1,14 @@
 
 .app{
     width: 40%;
+<<<<<<< HEAD
+    transition: .5s;
+    padding: 10px 0;
+    margin: 0 auto;
+    font-family: Arial;
+    box-sizing: border-box;
+=======
     margin: 0 auto;
     padding: 10px;
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
 }

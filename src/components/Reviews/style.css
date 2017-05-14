@@ -14,13 +14,30 @@
 .indicators{
  float: right;
 }
+<<<<<<< HEAD
+.indicators span{
+    margin: 0 8px;
+    cursor: pointer;
+}
+.indicators img {
+    width: 12px;
+    height: 12px;
+}
+.reviewer-name{
+    font-size: 1.1em;
+=======
 
 .reviewer-name{
     font-size: 1.2em;
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
     font-weight: 800;
 }
 .reviewer-date{
     color: #888;
+<<<<<<< HEAD
+    font-size: 0.8em;
+=======
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
     margin: 0 10px;
 }
 .reviewer-text{
@@ -32,6 +49,10 @@
 .reviews-list ul li {
     margin: 20px 0;
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
 .reviews-add{
     background-color: #F2F2F2;
     padding: 30px 20px;
@@ -42,6 +63,12 @@
     line-height: 2em;
     margin-bottom: 25px;
 }
+<<<<<<< HEAD
+.heart-symbol{
+    color:#72b3d4;
+}
+=======
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
 #reviews-text{
     width: 100%;
     margin-bottom: 25px;
@@ -57,4 +84,18 @@
     border-radius: 30px;
     display: block;
     margin: 0 auto;
+<<<<<<< HEAD
+}
+.review{
+    position: relative;
+}
+.review h4 {
+    margin: 10px 0;
+}
+.triangle{
+    position: absolute;
+    left:5%;
+    top:20px;
+=======
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
 }

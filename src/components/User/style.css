@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+.user{
+    z-index: 10;
+}
+=======
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
 .user-avatar{
     display: inline-block;
 }
@@ -9,6 +15,14 @@
     width: 120px;
     height: 120px;
     border-radius: 50%;
+<<<<<<< HEAD
+    z-index: 1000;
+}
+.user-avatar{
+    z-index: 1000;
+    position: relative;
+=======
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
 }
 .user-info-name{
     padding-left: 20px;
@@ -23,7 +37,14 @@
     font-size: 0.8em;
 }
 .user-info-status{
+<<<<<<< HEAD
+    padding: 10px 10px 10px 20%;
+    margin-left: -10%;
+    z-index: -1;
+    font-size: 0.95em;
+=======
     padding: 10px 10px 10px 20px;
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
     background-color:#FFFBC8;
     border: 1px solid #ccc;
     border-radius: 5px;

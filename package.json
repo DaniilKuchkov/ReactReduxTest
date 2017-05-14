@@ -10,6 +10,10 @@
   "dependencies": {
     "react": "^15.3.0",
     "react-dom": "^15.3.0",
+<<<<<<< HEAD
+    "react-fontawesome": "^1.6.1",
+=======
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
     "react-redux": "^4.4.5",
     "redux": "^3.5.2",
     "redux-logger": "^3.0.1",

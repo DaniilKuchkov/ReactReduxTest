@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+
+const initialState = {
+    name:'',
+    reviewText:'',
+    reviewsList: JSON.parse(localStorage.getItem('reviewsList')) || []
+=======
 const reviewsList = [
     {
         id: 1,
@@ -22,6 +29,7 @@ const initialState = {
     name:'',
     reviewText:'',
     reviewsList
+>>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
 };
 
 function reviews(state=initialState,action){
