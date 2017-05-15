@@ -11,12 +11,8 @@
     margin: 10px 0;
     border-left: 1px solid #ccc;
 }
-<<<<<<< HEAD
 
 .services-list ul li{
-=======
-.services-list li{
->>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
     padding: 5px 0;
     margin: 3px 0;
 }
@@ -27,23 +23,16 @@
     padding: 10px 0px;
 }
 .service-name{
-<<<<<<< HEAD
     background-color:#ade2f7;
-=======
-    background-color:#B1E19B;
->>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
     padding: 5px 2px;
     display: inline-block;
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
     white-space: pre;
 }
-<<<<<<< HEAD
 .first-service-name{
     background-color: #B1E19B;
 }
-=======
->>>>>>> 1417737d8a21b44a4583e8e9708c0bdf9f0170c8
 .service-count, .services-total{
     float: right;
     padding-right: 20px;
